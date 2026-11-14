@@ -1,0 +1,4 @@
+.godot/
+export/
+# Source archives; the extracted glb files are what the project uses.
+assets/animations/*.zip
